@@ -1,1 +1,1 @@
-# python-snippits
+# Python Snippits
