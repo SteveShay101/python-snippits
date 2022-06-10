@@ -1,0 +1,12 @@
+Just a reminder that Python 2 is installed by default, and we added Python 3
+
+So....
+
+% Python is Python 2
+% Python3 is Python 3 and what you'll generally need
+
+Same for Pip, need to use % pip3
+
+Upgrade to the latest pip with
+% pip3 install --upgrade pip
+
