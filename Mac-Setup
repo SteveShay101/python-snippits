@@ -7,6 +7,7 @@ So....
 
 Same for Pip, need to use % pip3
 
+Python comes with pip, but it's sometimes a version behind
 Upgrade to the latest pip with
 % pip3 install --upgrade pip
 
